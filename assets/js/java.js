@@ -1,3 +1,4 @@
-function changePic(url, objet) {
-objet.src = url
+function changePic(id) {
+  document.getElementById(img).src = 'assets/img/' + img + '_2.jpg'
+
 }
